@@ -16,3 +16,8 @@ int main() {
     
     return 0;
 }
+
+output 
+num1=2;
+num2=3;
+sum=2+3=5
